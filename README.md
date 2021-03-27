@@ -23,7 +23,7 @@
 
 
 
-#### [S3 (Simple Cloud Storage)](s3)
+#### [S3 (Simple Storage Service)](s3)
 
 
 
@@ -90,6 +90,27 @@
 
 
 #### [X-Ray](xray)
+
+
+
+
+
+---
+
+
+## Other AWS Lambda Labs
+
+
+### [AWS Lambda: Node.js Labs](https://github.com/a-patel/aws-lambda-nodejs-labs)
+
+
+### [AWS Lambda: .NET Labs](https://github.com/a-patel/aws-dotnet-labs)
+
+
+
+
+
+---
 
 
 
