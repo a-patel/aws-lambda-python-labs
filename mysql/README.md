@@ -3,5 +3,3 @@
 > AWS Lambda - Python Examples - MySQL
 
 
-
-Work in progress...

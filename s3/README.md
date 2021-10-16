@@ -3,5 +3,3 @@
 > AWS Lambda - Python Examples - S3 (Simple Storage Service)
 
 
-
-Work in progress...

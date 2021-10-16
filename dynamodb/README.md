@@ -2,6 +2,3 @@
 
 > AWS Lambda - Python Examples - DynamoDB
 
-
-
-Work in progress...
