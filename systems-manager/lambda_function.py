@@ -12,9 +12,9 @@ log.setLevel(logging.INFO)
 def lambda_handler(event, context):
     log.debug('Event: %s', event)
     print("Received event: " + json.dumps(event, indent=2))
-    
 
-    # TODO: DO YOUR WORK
-
+    ssm = boto3.client('ssm')
+    parameter = ssm.get_parameter(Name='/Prod/Db/Password', WithDecryption=True)
+    print(parameter['Parameter']['Value'])
 
     return 0

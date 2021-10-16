@@ -2,6 +2,3 @@
 
 > AWS Lambda - Python Examples - Systems Manager - Parameter Store
 
-
-
-Work in progress...
