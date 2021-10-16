@@ -3,5 +3,3 @@
 > AWS Lambda - Python Examples - SES (Simple Email Service)
 
 
-
-Work in progress...
