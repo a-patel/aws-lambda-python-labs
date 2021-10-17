@@ -2,6 +2,3 @@
 
 > AWS Lambda - Python Examples - Secrets Manager
 
-
-
-Work in progress...
